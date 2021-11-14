@@ -67,8 +67,8 @@ A summary of the access policies in place can be found in the table below.
 | Name    | Publicly Accesible | Allowed  IP Addresses |
 |---------|--------------------|-----------------------|
 | Jumpbox | No                 | 98.225.249.153        |
-| DVMA1   | No                 | 10.0.1.4              |
-| DVMA2   | No                 | 10.0.1.4              |
+| DVWA1   | No                 | 10.0.1.4              |
+| DVWA2   | No                 | 10.0.1.4              |
 | Elk VM  | No                 | 10.0.1.4              |
 
 
@@ -104,8 +104,8 @@ The following screenshot displays the result of running docker ps after successf
 Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 
-DVWM1 - webserver1 - 10.0.1.5
-DVWM2 - webserver2 - 10.0.1.6
+DVWA1 - webserver1 - 10.0.1.5
+DVWA2 - webserver2 - 10.0.1.6
 
 We have installed the following Beats on these machines:
 
