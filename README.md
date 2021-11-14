@@ -69,7 +69,7 @@ A summary of the access policies in place can be found in the table below.
 | Jumpbox | No                 | 98.225.249.153        |
 | DVWA1   | No                 | 10.0.1.4              |
 | DVWA2   | No                 | 10.0.1.4              |
-| Elk VM  | No                 | 10.0.1.4              |
+| Elk VM  | No                 | 98.225.249.153        |
 
 
 
