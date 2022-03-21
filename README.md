@@ -11,7 +11,7 @@ metricbeat_playbook.yml
 
 This document contains the following details:
 
-Description of the Topologu
+Description of the Topology
 Access Policies
 ELK Configuration
 
